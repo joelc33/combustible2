@@ -1,0 +1,44 @@
+.theme-bg, .bg-gradient, .home-bg, .btn-gradient, .bg-features, .work_process .work_box .work_left::after,
+.work_process .work_box .work_right::after, .pricing-item.active .pricing-header:before, .pricing-item .pricing-footer a, .welcome-area .right-bg:before, .single-service::before, .custom-nav.sticky-header .sign_btn, .gradiant-bg, .featured-block-top .feature-inner .upper-box .icon-outer .icon {
+    background: #265BFB;
+}
+
+    .section_title_icon,
+    .btn-gradient:hover,
+    .btn-gradient:focus,
+    .btn-gradient:active,
+    .btn-gradient.active,
+    .btn-gradient.focus,
+    .btn-gradient:active,
+    .btn-gradient:focus,
+    .btn-gradient:hover,
+    .open > .dropdown-toggle.btn-gradient, .work_process .work_box .work_left::after,
+    .work_process .work_box .work_right::after, .pricing-item.active .pricing-header:before, .pricing-item .pricing-footer a:hover, .footer .fot_social .social-icon:hover, .pricing-item:hover .pricing-header::before, .btn-white:hover, .custom-nav.sticky-header .sign_btn:hover {
+        background: #000;
+        color:#fff;
+    }
+
+    .theme-bg, .bg-gradient, .home-bg, .btn-gradient, .bg-features, .work_process .work_box .work_left::after, .work_process .work_box .work_right::after, .pricing-item.active .pricing-header::before, .pricing-item .pricing-footer a, .welcome-area .right-bg::before, .single-service::before, .custom-nav.sticky-header .sign_btn, .gradiant-bg, .featured-block-top .feature-inner .upper-box .icon-outer .icon {
+        background: #0B173C;
+    }
+
+    .app-feature-box .feature-inner .app-feature-main .icon-block .icon {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #0B173C;
+        color: #ffffff;
+        font-size: 40px;
+        line-height: 50px;
+        width: 60px;
+        height: 60px;
+        border-radius: 60px;
+        text-align: center;
+        transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -webkit-transition: all 0.5s;
+    }
+    .custom-nav .navbar-brand.brand-logo img {
+        height: 54px;
+    }
